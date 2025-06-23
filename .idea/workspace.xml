@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cfaa9e5c-4552-4001-b0d1-543833567595" name="Changes" comment="Seventh commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2CuZiuTlieeExF3MYVsQWZoKuNS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfaa9e5c-4552-4001-b0d1-543833567595" name="Changes" comment="" />
+      <created>1659654562063</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659654562063</updated>
+      <workItem from="1659654563951" duration="23000" />
+      <workItem from="1659655344843" duration="8000" />
+      <workItem from="1659655484633" duration="101000" />
+      <workItem from="1659655699123" duration="719000" />
+      <workItem from="1659791257208" duration="206000" />
+      <workItem from="1659892194031" duration="16000" />
+      <workItem from="1659892214001" duration="391000" />
+      <workItem from="1660077396074" duration="290000" />
+      <workItem from="1660164162929" duration="127000" />
+      <workItem from="1660230945618" duration="47000" />
+      <workItem from="1660231203825" duration="34000" />
+      <workItem from="1660339320666" duration="88000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1659679999987</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659679999987</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First commit">
+      <created>1659690860946</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1659690860946</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Second commit">
+      <created>1659791428049</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1659791428049</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Third commit">
+      <created>1659892500225</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1659892500225</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fourth commit">
+      <created>1660077449500</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1660077449500</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Fourth commit">
+      <created>1660077508249</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1660077508249</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Fifth commit">
+      <created>1660164209091</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1660164209091</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Sixth commit">
+      <created>1660231220308</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1660231220308</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Seventh commit">
+      <created>1660339348277</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1660339348277</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="First commit" />
+    <MESSAGE value="Second commit" />
+    <MESSAGE value="Third commit" />
+    <MESSAGE value="Fourth commit" />
+    <MESSAGE value="Fifth commit" />
+    <MESSAGE value="Sixth commit" />
+    <MESSAGE value="Seventh commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Seventh commit" />
+  </component>
+</project>
